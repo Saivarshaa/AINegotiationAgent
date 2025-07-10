@@ -66,8 +66,7 @@ class BuyerPersonalityComponent(entity_component.ContextComponent):
 ```
 
 ### 3. **Language Model**
-- Use provided Llama-3-8B endpoint (credentials will be shared)
-- No external APIs or models allowed
+- Use provided Llama-3-8B via ollama or AWS Bedrock 
 
 ---
 
