@@ -66,7 +66,7 @@ class BuyerPersonalityComponent(entity_component.ContextComponent):
 ```
 
 ### 3. **Language Model**
-- Use provided Llama-3-8B via ollama or AWS Bedrock 
+- Use Llama-3-8B via ollama or AWS Bedrock or HuggingFace
 
 ---
 
